@@ -1,0 +1,31 @@
+/* components/TopNavigation.css */
+.top-navigation {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem 2rem;
+    background-color: rgb(226, 60, 5);
+    color: orange;
+  }
+  
+  .top-navigation .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .top-navigation .nav-links {
+    list-style: none;
+    display: flex;
+    gap: 1.5rem;
+  }
+  
+  .top-navigation .nav-links a {
+    color: orange;
+    text-decoration: none;
+    transition: color 0.3s;
+  }
+  
+  .top-navigation .nav-links a:hover {
+    color: yellow;
+  }
+  

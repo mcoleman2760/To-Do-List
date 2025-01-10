@@ -1,0 +1,16 @@
+/* components/MainPage.css */
+.main-page {
+    padding: 2rem;
+    text-align: center;
+  }
+  
+  .main-page h2 {
+    font-size: 2rem;
+    color: #333;
+  }
+  
+  .main-page p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
